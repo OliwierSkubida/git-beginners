@@ -28,4 +28,28 @@ MOVIES_CATALOG = [
         "rating": 8.7,
         "platform": "Disney+"
     }
+    {
+        "id": 4,
+        "title": "Shrek",
+        "genre": "animacja",
+        "year": 2001,
+        "rating": 7.8,
+        "platform": "ShySkowTime"
+    }
+    {
+        "id": 5,
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "rating": 8.7,
+        "platform": "Disney+"
+    }
+    {
+        "id": 6,
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "rating": 8.7,
+        "platform": "Disney+"
+    }
 ]
