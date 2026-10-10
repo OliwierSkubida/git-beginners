@@ -27,7 +27,7 @@ MOVIES_CATALOG = [
         "year": 2014,
         "rating": 8.7,
         "platform": "Disney+"
-    }
+    },
     {
         "id": 4,
         "title": "Shrek",
@@ -35,7 +35,7 @@ MOVIES_CATALOG = [
         "year": 2001,
         "rating": 7.8,
         "platform": "ShySkowTime"
-    }
+    },
     {
         "id": 5,
         "title": "Shrek 2",
@@ -43,7 +43,7 @@ MOVIES_CATALOG = [
         "year": 2004,
         "rating": 7.5,
         "platform": "ShySkowTime"
-    }
+    },
     {
         "id": 6,
         "title": "Odyseja",
