@@ -38,18 +38,18 @@ MOVIES_CATALOG = [
     }
     {
         "id": 5,
-        "title": "Interstellar",
-        "genre": "Sci-Fi",
-        "year": 2014,
-        "rating": 8.7,
-        "platform": "Disney+"
+        "title": "Shrek 2",
+        "genre": "animacja",
+        "year": 2004,
+        "rating": 7.5,
+        "platform": "ShySkowTime"
     }
     {
         "id": 6,
-        "title": "Interstellar",
-        "genre": "Sci-Fi",
-        "year": 2014,
-        "rating": 8.7,
-        "platform": "Disney+"
+        "title": "Odyseja",
+        "genre": "Dramat",
+        "year": 2026,
+        "rating": 7.7,
+        "platform": "W kinach"
     }
 ]
